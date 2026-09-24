@@ -1,0 +1,5 @@
+name=input("請輸入感測器代號:")
+print("代號是:", name)
+a=input("請輸入姓名:")
+a=str(a)
+print(a)
