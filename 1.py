@@ -3,5 +3,5 @@ sensor_id = "TEMP-01"
 count = 8
 
 print(sensor_id)
-print(temperature
+print(temperature)
 
